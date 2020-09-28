@@ -32,11 +32,11 @@ music_final = int(music1) + int(music2) + int(music3)
 print()
 
 if tech_final > outdoor_final and tech_final > music_final:
-  print("You might be suitable for Infocomm club!")
+  print("You might be suitable for Infocomm club! What do you think?")
 elif outdoor_final > music_final:
-  print("You might be stuiable for ODAC!")
+  print("You might be suitable for ODAC! What do you think?")
 else:
-  print("You might be suitable for Band!")
+  print("You might be suitable for Band! What do you think? ")
 
 print()  
 print("Hope this mini test has been useful to you!")
@@ -45,3 +45,4 @@ print("All the best to you in discovering the best CCA for yourself:)))")
 
 
   
+
